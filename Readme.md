@@ -2,6 +2,7 @@
 
 > Python-based Morse Code encoder & decoder for CTFs, cyberlabs, and signal translation.
 >⭐ Installation Guide
+
 **🔹 Method 1 — Download & Run**
 
 1. Download the DMorse.py file from the repository.
@@ -20,6 +21,7 @@
 **python dmorse.py**
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+
 
 
 
